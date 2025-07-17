@@ -1,10 +1,10 @@
-#☁️ Rain Forecasting App 🌧️
+☁️ Rain Forecasting App 🌧️
 
 A simple and interactive Streamlit web app that predicts whether it will rain tomorrow based on today's weather data using a trained Random Forest model.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - 🌧️ Predicts **Rain Tomorrow** using weather parameters like temperature, humidity, pressure, and wind speed.
 - 📊 Visualizes weather variable relationships with interactive scatter plots.
@@ -13,7 +13,7 @@ A simple and interactive Streamlit web app that predicts whether it will rain to
 
 ---
 
-## 🧠 Machine Learning Model
+🧠 Machine Learning Model
 
 - **Algorithm**: RandomForestClassifier
 - **Trained on**: `rain_forecasting.csv` dataset
@@ -21,7 +21,7 @@ A simple and interactive Streamlit web app that predicts whether it will rain to
 
 ---
 
-## 🗂️ Project Structure
+🗂️ Project Structure
 
 rain_forecasting_app/
 ├── app/
